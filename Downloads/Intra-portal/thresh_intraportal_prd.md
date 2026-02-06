@@ -1,5 +1,5 @@
 # Thresh IntraPortal - Product Requirements Document
-#VERY BASIC FIRST DRAFT, MANY UPDATES NEED TO BE MADE || SCRAPPED
+# VERY BASIC FIRST DRAFT, MANY UPDATES NEED TO BE MADE || SCRAPPED
 
 ## 1. Executive Summary
 
