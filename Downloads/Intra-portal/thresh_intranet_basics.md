@@ -1,17 +1,18 @@
 ## MVP:
 * Landing page - Thresh metrics (tbd), News API (Tech news [AI, digital products])
 * House all SOPs
-* House a list and info Tools & Apps 
+* Info Tools & Apps 
 * Org Chart || Teams & Members
 * Login with certain users having CRUD access
 * Thresh Standards
-    - Design Standards
-    - Coding Standards
+
     - Brand Guidelines
-    - Folder with standard assests (Imgs)
+        - Design Standards
+        - Coding Standards
     - Templates
         + Slide Deck
         + Email Signature
+    - Folder with standard assests (Imgs)
 
 ____
 ____
