@@ -5,20 +5,22 @@
 * Org Chart || Teams & Members
 * Login with certain users having CRUD access
 * Thresh Standards
-
     - Brand Guidelines
         - Design Standards
         - Coding Standards
     - Templates
         + Slide Deck
         + Email Signature
-    - Folder with standard assests (Imgs)
+    - Folder with standard assets (Imgs)
+### *Flags*
+* We are moving to **<u>Cloudflare</u>** keep that in mind when building
+*
 
 ____
 ____
 
 ## Moonshot:
-* 
+* Jira Ticket Scraper and Flagger
 * 
 * 
 * Team member profiles (Pull from Linkedin API?)
