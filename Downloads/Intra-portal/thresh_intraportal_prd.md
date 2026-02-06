@@ -218,7 +218,7 @@ Thresh IntraPortal is a centralized internal web application that serves as the 
   - Filter by content type, date, author
   - Search analytics for content gaps
 
----
+----
 
 ## 5. Technical Architecture
 
