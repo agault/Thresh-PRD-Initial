@@ -1,3 +1,31 @@
+## MVP:
+* Landing page - Thresh metrics (tbd), News API (Tech news [AI, digital products])
+* House all SOPs
+* House a list and info Tools & Apps 
+* Org Chart || Teams & Members
+* Login with certain users having CRUD access
+* Thresh Standards
+    - Design Standards
+    - Coding Standards
+    - Brand Guidelines
+    - Folder with standard assests (Imgs)
+    - Templates
+        + Slide Deck
+        + Email Signature
+
+____
+____
+
+## Moonshot:
+* 
+* 
+* 
+* Team member profiles (Pull from Linkedin API?)
+*
+
+____
+____
+
 ## Pages:
 * Dashboard (The Home Base)
 * SOPs (The Knowledge Base)
