@@ -23,20 +23,58 @@
 * Login with certain users having CRUD access
 
 
+
+
 ____
-____
+
 
 ### *Flags*
 * We are moving to **<u>Cloudflare</u>** keep that in mind when building
 * we need to choose the best code stack that will mirror our branded eventually. Framer -> React || Vue ||  ?
+* Tech APIs most are paid, may need to us RSS feeds to custom build the news carousel.
 
+#### Critical Constraints
+
+1. ✅ Moving to Cloudflare - entire stack must be Cloudflare-compatible
+
+    + Cloudflare Pages for hosting
+    + Cloudflare Workers for serverless functions
+    + Cloudflare D1 or KV for data storage
+
+
+2. 🤔 Code Stack Decision: Need to mirror eventual brand site migration
+
+    + Current: Framer <- Branded site
+    + Options: React || Vue || Next.js (React)
+    + Recommendation: Next.js (React) for Cloudflare Pages compatibility + easier migration path
+
+
+3. 💰 API Costs: Most tech news APIs are paid beyond free tiers
+
+    + Use free tiers + caching strategy
+    + Build custom RSS feed aggregator as fallback
+    + Server-side API calls to hide keys
 ____
 ____
 
 ## Moonshot:
 * Jira Ticket Scraper and Flagger
+    + Auto-sync project health from Jira
+    + Flag at-risk tickets/projects
+    + Display sprint velocity
 * Team member profiles (Pull from Linkedin API?)
-* 
+    + Pull from LinkedIn API (with user consent)
+    + Auto-populate bios, skills, work history
+* Chat Bot
+    + Internal AI assistant for answering SOP questions
+    + Tool lookup ("Where's the Figma login?")
+    + RAG on internal documentation
+* KPI and OKR progress tracker
+    + Visual dashboards for goals
+    + Team-level and individual tracking
+    + Quarterly OKR management
+
+
 
 ____
 ____
@@ -55,7 +93,16 @@ ____
 ### 1. Dashboard (The Home Base)
 Operational Optics: High-level "Product Scorecard" (Health, Velocity, Success).
 
-Discovery Feed: API-driven widget for Industry Tech News & Digital Consulting trends.
+- Primary: NewsAPI (free tier: 100 req/day) + Hacker News API (unlimited free)
+- Fallback: RSS to JSON conversion from TechCrunch, VentureBeat, MIT Tech Review, The Verge
+- Display as carousel or card grid
+- Cache results to minimize API calls
+- Filter by: AI, Digital Products, Design, Development
+
+
+
+
+
 
 ____
 
