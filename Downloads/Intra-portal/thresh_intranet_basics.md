@@ -2,6 +2,11 @@
 * Landing page - Thresh metrics (tbd), News API (Tech news [AI, digital products])
 * House all SOPs
 * Info Tools & Apps 
+* Onboarding 
+    - General
+    - Product Managers
+    - Designers
+    - Devs
 * Org Chart || Teams & Members
 * Login with certain users having CRUD access
 * Thresh Standards
@@ -11,20 +16,19 @@
     - Templates
         + Slide Deck
         + Email Signature
+        + PRD
     - Folder with standard assets (Imgs)
 ### *Flags*
 * We are moving to **<u>Cloudflare</u>** keep that in mind when building
-*
+* we need to choose the best code stack that will mirror our branded eventually. Framer -> React || Vue ||  ?
 
 ____
 ____
 
 ## Moonshot:
 * Jira Ticket Scraper and Flagger
-* 
-* 
 * Team member profiles (Pull from Linkedin API?)
-*
+* 
 
 ____
 ____
