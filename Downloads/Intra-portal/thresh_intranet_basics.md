@@ -10,7 +10,6 @@
     - Designers
     - Devs
 * Org Chart || Teams & Members
-* Login with certain users having CRUD access
 * Thresh Standards
     - Brand Guidelines
         - Design Standards
@@ -20,6 +19,13 @@
         + Email Signature
         + PRD
     - Folder with standard assets (Imgs)
+
+* Login with certain users having CRUD access
+
+
+____
+____
+
 ### *Flags*
 * We are moving to **<u>Cloudflare</u>** keep that in mind when building
 * we need to choose the best code stack that will mirror our branded eventually. Framer -> React || Vue ||  ?
