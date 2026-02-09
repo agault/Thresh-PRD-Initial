@@ -1,5 +1,7 @@
 ## MVP:
-* Landing page - Thresh metrics (tbd), News API (Tech news [AI, digital products])
+* Landing page - Thresh metrics (tbd), News API- RSS FEED (Tech news [AI, digital products])
+    + NewsAPI (has a free tier, easy integration) + Hacker News API (completely free). 
+    + If no API Convert RSS feeds from TechCrunch, VentureBeat, MIT Technology Review, The Verge into JSON
 * House all SOPs
 * Info Tools & Apps 
 * Onboarding 
